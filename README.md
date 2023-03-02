@@ -1,1 +1,1 @@
-# zimify
+# rezim
